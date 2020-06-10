@@ -3,7 +3,7 @@ A collection of Python examples and demos.
 
 <h1 align="center">
 <br>
-  <img src="https://github.com/isabelaaug/Python/blob/master/python-3-7.png" alt="python">
+  <img src="https://github.com/isabelaaug/Python/blob/master/python-3-7.png" alt="python" width="700">
 <br>
 <br>
 CURSO DE PYTHON
